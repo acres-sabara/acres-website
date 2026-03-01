@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+/* Tokens do projeto (gera utilitários automaticamente) */
+@theme {
+  /* Cores */
+  --color-acres-blue: #38b6ff;
+  --color-acres-yellow: #ffde59;
+  --color-acres-ink: #0b1220;
+  --color-acres-cloud: #f6f8fb;
+
+  /* Tipografia do site (Inter + Montserrat) */
+  --font-sans: "Inter", system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-heading: "Montserrat", "Inter", system-ui, sans-serif;
+}

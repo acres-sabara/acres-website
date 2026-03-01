@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "slug": "sabara-futebol-club",
+      "title": "Sabará Futebol Club",
+      "summary": "Projeto esportivo com foco em formação, disciplina e competição.",
+      "tag": "Esporte"
+    },
+    {
+      "slug": "sabarazinho-futebol-clube",
+      "title": "Sabarazinho Futebol Clube",
+      "summary": "Iniciação esportiva para crianças e adolescentes, com acompanhamento e valores.",
+      "tag": "Base"
+    },
+    {
+      "slug": "projeto-social",
+      "title": "Projeto Social",
+      "summary": "Ações sociais e culturais voltadas para inclusão, bem-estar e comunidade.",
+      "tag": "Social"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "label": "Home", "to": "/" },
+    { "label": "Sobre", "to": "/sobre" },
+    { "label": "Projetos", "to": "/projetos" },
+    { "label": "Eventos", "to": "/eventos" },
+    { "label": "Contato", "to": "/contato" }
+  ]
+}
