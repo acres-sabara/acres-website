@@ -1,9 +1,12 @@
 <template>
-  <div class="min-h-screen bg-gray-100 text-acres-ink">
-    <AppHeader class="max-w-7xl mx-auto" />
-    <main class="pt-20 max-w-7xl mx-auto">
+  <div class="min-h-screen bg-gray-100 text-acres-ink py-20">
+    <AppHeader class="max-w-5xl mx-auto" />
+    <main class="max-w-5xl mx-auto py-4">
       <slot />
     </main>
-    <AppFooter class="max-w-7xl mx-auto" />
+
+    <AppFooter
+      class="bg-white max-w-5xl mx-auto max-h-24 transition-all duration-300"
+    />
   </div>
 </template>

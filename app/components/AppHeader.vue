@@ -21,7 +21,7 @@ onUnmounted(() => {
 <template>
   <header
     :class="[
-      'inset-x-0 top-15 z-50 transition-all duration-300',
+      'inset-x-0 transition-all duration-300 max-h-24',
       isScrolled
         ? 'bg-white/95 shadow-md backdrop-blur border-b border-black/5'
         : 'bg-white/80 backdrop-blur border-b border-black/5',
@@ -45,17 +45,14 @@ onUnmounted(() => {
           <div class="leading-tight">
             <div
               class="text-2xl"
-              style="font-family: &quot;Agbalumo&quot;, cursive; color: #ffde59"
+              style="font-family: Agbalumo, cursive; color: #ffde59"
             >
               SABARÁ
             </div>
 
             <div
               class="text-xs tracking-wide"
-              style="
-                font-family: &quot;Amaranth&quot;, sans-serif;
-                color: #38b6ff;
-              "
+              style="font-family: Amaranth, sans-serif; color: #38b6ff"
             >
               Associação Cultural Recreativa Esportiva
             </div>

@@ -1,6 +1,8 @@
 <template>
-  <footer class="py-6 text-center text-sm bg-white">
-    © {{ new Date().getFullYear() }} Associação Cultural Recreativa Esportiva
-    Sabará. Todos os direitos reservados.
+  <footer>
+    <div class="inset-x-0 text-center text-sm py-6">
+      © {{ new Date().getFullYear() }} Associação Cultural Recreativa Esportiva
+      Sabará. Todos os direitos reservados.
+    </div>
   </footer>
 </template>

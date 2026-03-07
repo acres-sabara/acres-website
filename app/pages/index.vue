@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen bg-acres-cloud">
-    <main class="mx-auto max-w-6xl px-4 py-16">
+    <main class="mx-auto max-w-6xl px-10 py-16">
       <div class="grid gap-10 md:grid-cols-2 items-center">
         <div>
           <h1
