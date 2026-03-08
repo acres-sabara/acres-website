@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Associação Sabará",
+    "description": "Associação Cultural Recreativa Esportiva Sabará",
+    "image": "/images/logo-acres-preto.png",
+    "link": "/sobre"
+  },
+  {
+    "title": "Sabará Futebol Clube",
+    "description": "Sabará Futebol Clube",
+    "image": "/images/logo-sabara-preto.png",
+    "link": "/sabará-fc"
+  },
+  {
+    "title": "Sabarazinho FC",
+    "description": "Escolinha de Futebol Sabará - Projeto Social",
+    "image": "/images/logo-sabarazinho-preto.png",
+    "link": "/sabarazinho"
+  }
+]

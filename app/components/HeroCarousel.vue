@@ -77,7 +77,7 @@ onBeforeUnmount(() => {
 
 <template>
   <section
-    class="relative overflow-hidden bg-slate-950 text-white shadow-2xl"
+    class="relative overflow-hidden bg-slate-950 text-white"
     @mouseenter="stopAutoplay"
     @mouseleave="startAutoplay"
   >
