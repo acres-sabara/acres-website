@@ -1,0 +1,29 @@
+[
+    {
+    "id": 2,
+    "subtitle": "ACRES Sabará",
+    "title": "Uma associação que acolhe, educa e inspira",
+    "description": "A ACRES Sabará desenvolve ações sociais, esportivas e comunitárias com foco em um futuro melhor para a região.",
+    "image": "/images/hero/sabara-associacao.jpg",
+    "ctaText": "Saiba mais",
+    "ctaLink": "/sobre"
+  },
+  {
+    "id": 1,
+    "subtitle": "Projeto Social",
+    "title": "Transformando vidas através do esporte",
+    "description": "O Sabarazinho FC promove inclusão social, disciplina e desenvolvimento para crianças e adolescentes.",
+    "image": "/images/hero/sabarazinho-1.jpg",
+    "ctaText": "Conheça o projeto",
+    "ctaLink": "/projetos"
+  },
+  {
+    "id": 3,
+    "subtitle": "Como apoiar",
+    "title": "Seja parte desse movimento",
+    "description": "Estamos abertos a parcerias, voluntariado e doações para ampliar o impacto do projeto e atender ainda mais crianças.",
+    "image": "/images/hero/apoio-comunidade.jpg",
+    "ctaText": "Entre em contato",
+    "ctaLink": "/contato"
+  }
+]
