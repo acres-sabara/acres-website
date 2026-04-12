@@ -67,7 +67,7 @@ onUnmounted(() => {
             v-for="item in nav.items"
             :key="item.to"
             :to="item.to"
-            class="relative py-2 hover:text-black transition"
+            class="relative py-2 font-nav hover:text-black transition"
             active-class="text-black"
           >
             {{ item.label }}

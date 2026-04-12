@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
 
 /* Tokens do projeto (gera utilitários automaticamente) */
 @theme {
@@ -9,6 +11,9 @@
   --color-acres-cloud: #f6f8fb;
 
   /* Tipografia do site (Inter + Montserrat) */
-  --font-sans: "Inter", system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-sans: "Oxygen", system-ui, "Segoe UI", Roboto, Arial, sans-serif;
   --font-heading: "Montserrat", "Inter", system-ui, sans-serif;
+
+  /* Fonte da navegação */
+  --font-nav: "Source Sans Pro", "Inter", system-ui, sans-serif;
 }

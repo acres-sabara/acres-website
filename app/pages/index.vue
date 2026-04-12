@@ -7,6 +7,7 @@ import heroSlides from "~/data/hero-home.json";
     <main class="mx-auto max-w-6xl">
       <HeroCarousel :slides="heroSlides" :autoplay="true" :interval="6000" />
       <HomeHighlights />
+      <QuoteRotator />
     </main>
   </div>
 </template>
